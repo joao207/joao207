@@ -4,6 +4,19 @@
 - 💞️ I’m looking to collaborate no possível, dentro das minhas competências.
 -📫 How to reach me  miguelrodriguesbh@gmail.com
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 Atividade feita no curso de Desenvolvimento de Sistemas.
 
 #include <stdio.h>
