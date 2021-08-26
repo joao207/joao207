@@ -5,23 +5,19 @@
 -📫 How to reach me  miguelrodriguesbh@gmail.com
 
 
+Atividade feita no curso de Desenvolvimento de Sistemas
 
 
 
-
-
-
-
-
-
-
-
-
-Atividade feita no curso de Desenvolvimento de Sistemas.
 
 #include <stdio.h>
 #include <stdlib.h>
 #include <locale.h>
+
+
+
+
+
 
 main()
 {
